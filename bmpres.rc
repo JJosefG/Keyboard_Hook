@@ -1,0 +1,7 @@
+/* Bitmap resources used in Detect_Keys.exe */
+/*  */
+
+//--- Main Program Icon ---
+a_mainicon   ICON "images\Detect_Keys.ico"         //alphabetically first icon is assumed the program icon
+NumLock_On   ICON "images\NumLock_On.ico"
+NumLock_Off  ICON "images\NumLock_Off.ico"
